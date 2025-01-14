@@ -1,4 +1,4 @@
 # LoadingView
 Loading view for SwiftUI
 
-![readme](/Users/hong/LoadingView/readme.gif)
+<img src="./readme.gif" alt="readme" style="zoom:40%;" />
